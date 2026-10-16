@@ -1,0 +1,101 @@
+Restaurant_Name	Area	City	Cuisine	Rating	Average_Cost_for_Two	Online_Order	Home_Delivery
+Green Leaf Kitchen	Koramangala	Bengaluru	North Indian	4.2	450	Yes	Yes
+Spice Route	Indiranagar	Bengaluru	South Indian	4.1	350	Yes	Yes
+Curry House	Jubilee Hills	Hyderabad	North Indian	4.0	500	Yes	No
+Pizza Point	Bandra West	Mumbai	Pizza	3.8	600	Yes	Yes
+Dragon Wok	HSR Layout	Bengaluru	Chinese	4.3	550	Yes	Yes
+Tandoori Tales	Adajan	Surat	North Indian	4.4	400	Yes	Yes
+Ocean Basket	Viman Nagar	Pune	Seafood	4.1	800	No	Yes
+Pasta Street	Whitefield	Bengaluru	Italian	3.9	700	Yes	Yes
+Royal Thali	Alkapuri	Vadodara	Gujarati	4.5	300	Yes	No
+Burger Hub	Andheri East	Mumbai	Burgers	3.7	400	Yes	Yes
+Royal Kitchen 1	Andheri East	Mumbai	Chinese	3.2	250	Yes	No
+Desi Zaika 1	Kukatpally	Hyderabad	Fast Food	4.9	400	Yes	Yes
+Sizzle House 1	Bandra West	Mumbai	Desserts	4.5	600	No	Yes
+Daily Dine 1	Gachibowli	Hyderabad	Pizza	4.1	1000	Yes	Yes
+The Hungry Fork 1	Varachha	Surat	South Indian	3.7	350	Yes	Yes
+Bistro Central 1	Fatehgunj	Vadodara	Mexican	3.3	500	Yes	No
+Chilli House 1	Piplod	Surat	Gujarati	5.0	800	No	Yes
+Golden Spoon 1	Alkapuri	Vadodara	Italian	4.6	300	Yes	Yes
+Fresh Bites 1	City Light	Surat	North Indian	4.2	450	Yes	Yes
+Kitchen Craft 1	Karelibaug	Vadodara	Desserts	3.8	700	Yes	Yes
+Urban Tadka 2	Vesu	Surat	Burgers	3.4	250	No	No
+Masala Junction 2	Whitefield	Bengaluru	Chinese	3.0	400	Yes	Yes
+The Food Corner 2	Viman Nagar	Pune	Fast Food	4.7	600	Yes	Yes
+Cafe Aroma 2	HSR Layout	Bengaluru	Gujarati	4.3	1000	Yes	Yes
+Flame Grill 2	Wakad	Pune	Pizza	3.9	350	No	Yes
+Taste Town 2	Indiranagar	Bengaluru	South Indian	3.5	500	Yes	No
+Spice Garden 2	Baner	Pune	Mexican	3.1	800	Yes	Yes
+Foodie Express 2	Koramangala	Bengaluru	Burgers	4.8	300	Yes	Yes
+The Curry Bowl 2	Gachibowli	Hyderabad	Italian	4.4	450	No	Yes
+Street Feast 2	Lower Parel	Mumbai	North Indian	4.0	700	Yes	Yes
+Royal Kitchen 2	Madhapur	Hyderabad	Desserts	3.6	250	Yes	No
+Desi Zaika 2	Dadar	Mumbai	Pizza	3.2	400	Yes	Yes
+Sizzle House 2	Jubilee Hills	Hyderabad	Chinese	4.9	600	No	Yes
+Daily Dine 2	Powai	Mumbai	Fast Food	4.5	1000	Yes	Yes
+The Hungry Fork 2	Banjara Hills	Hyderabad	Gujarati	4.1	350	Yes	Yes
+Bistro Central 2	Vesu	Surat	Italian	3.7	500	Yes	No
+Chilli House 2	Gotri	Vadodara	South Indian	3.3	800	No	Yes
+Golden Spoon 2	Adajan	Surat	Mexican	5.0	300	Yes	Yes
+Fresh Bites 2	Manjalpur	Vadodara	Burgers	4.6	450	Yes	Yes
+Kitchen Craft 2	Varachha	Surat	Chinese	4.2	700	Yes	Yes
+Urban Tadka 3	Fatehgunj	Vadodara	North Indian	3.8	250	No	No
+Masala Junction 3	Piplod	Surat	Desserts	3.4	400	Yes	Yes
+The Food Corner 3	Koramangala	Bengaluru	Pizza	3.0	600	Yes	Yes
+Cafe Aroma 3	Hinjawadi	Pune	South Indian	4.7	1000	Yes	Yes
+Flame Grill 3	Jayanagar	Bengaluru	Fast Food	4.3	350	No	Yes
+Taste Town 3	Kothrud	Pune	Gujarati	3.9	500	Yes	No
+Spice Garden 3	Whitefield	Bengaluru	Italian	3.5	800	Yes	Yes
+Foodie Express 3	Viman Nagar	Pune	North Indian	3.1	300	Yes	Yes
+The Curry Bowl 3	HSR Layout	Bengaluru	Mexican	4.8	450	No	Yes
+Street Feast 3	Banjara Hills	Hyderabad	Burgers	4.4	700	Yes	Yes
+Royal Kitchen 3	Andheri East	Mumbai	Chinese	4.0	250	Yes	No
+Desi Zaika 3	Kukatpally	Hyderabad	Fast Food	3.6	400	Yes	Yes
+Sizzle House 3	Bandra West	Mumbai	Desserts	3.2	600	No	Yes
+Daily Dine 3	Gachibowli	Hyderabad	Pizza	4.9	1000	Yes	Yes
+The Hungry Fork 3	Lower Parel	Mumbai	South Indian	4.5	350	Yes	Yes
+Bistro Central 3	Madhapur	Hyderabad	Mexican	4.1	500	Yes	No
+Chilli House 3	Piplod	Surat	Gujarati	3.7	800	No	Yes
+Golden Spoon 3	Alkapuri	Vadodara	Italian	3.3	300	Yes	Yes
+Fresh Bites 3	City Light	Surat	North Indian	5.0	450	Yes	Yes
+Kitchen Craft 3	Karelibaug	Vadodara	Desserts	4.6	700	Yes	Yes
+Urban Tadka 4	Vesu	Surat	Burgers	4.2	250	No	No
+Masala Junction 4	Gotri	Vadodara	Chinese	3.8	400	Yes	Yes
+The Food Corner 4	Adajan	Surat	Fast Food	3.4	600	Yes	Yes
+Cafe Aroma 4	HSR Layout	Bengaluru	Gujarati	3.0	1000	Yes	Yes
+Flame Grill 4	Wakad	Pune	Pizza	4.7	350	No	Yes
+Taste Town 4	Indiranagar	Bengaluru	South Indian	4.3	500	Yes	No
+Spice Garden 4	Baner	Pune	Mexican	3.9	800	Yes	Yes
+Foodie Express 4	Koramangala	Bengaluru	Burgers	3.5	300	Yes	Yes
+The Curry Bowl 4	Hinjawadi	Pune	Italian	3.1	450	No	Yes
+Street Feast 4	Jayanagar	Bengaluru	North Indian	4.8	700	Yes	Yes
+Royal Kitchen 4	Madhapur	Hyderabad	Desserts	4.4	250	Yes	No
+Desi Zaika 4	Dadar	Mumbai	Pizza	4.0	400	Yes	Yes
+Sizzle House 4	Jubilee Hills	Hyderabad	Chinese	3.6	600	No	Yes
+Daily Dine 4	Powai	Mumbai	Fast Food	3.2	1000	Yes	Yes
+The Hungry Fork 4	Banjara Hills	Hyderabad	Gujarati	4.9	350	Yes	Yes
+Bistro Central 4	Andheri East	Mumbai	Italian	4.5	500	Yes	No
+Chilli House 4	Kukatpally	Hyderabad	South Indian	4.1	800	No	Yes
+Golden Spoon 4	Adajan	Surat	Mexican	3.7	300	Yes	Yes
+Fresh Bites 4	Manjalpur	Vadodara	Burgers	3.3	450	Yes	Yes
+Kitchen Craft 4	Varachha	Surat	Chinese	5.0	700	Yes	Yes
+Urban Tadka 5	Fatehgunj	Vadodara	North Indian	4.6	250	No	No
+Masala Junction 5	Piplod	Surat	Desserts	4.2	400	Yes	Yes
+The Food Corner 5	Alkapuri	Vadodara	Pizza	3.8	600	Yes	Yes
+Cafe Aroma 5	City Light	Surat	South Indian	3.4	1000	Yes	Yes
+Flame Grill 5	Jayanagar	Bengaluru	Fast Food	3.0	350	No	Yes
+Taste Town 5	Kothrud	Pune	Gujarati	4.7	500	Yes	No
+Spice Garden 5	Whitefield	Bengaluru	Italian	4.3	800	Yes	Yes
+Foodie Express 5	Viman Nagar	Pune	North Indian	3.9	300	Yes	Yes
+The Curry Bowl 5	HSR Layout	Bengaluru	Mexican	3.5	450	No	Yes
+Street Feast 5	Wakad	Pune	Burgers	3.1	700	Yes	Yes
+Royal Kitchen 5	Indiranagar	Bengaluru	Chinese	4.8	250	Yes	No
+Desi Zaika 5	Kukatpally	Hyderabad	Fast Food	4.4	400	Yes	Yes
+Sizzle House 5	Bandra West	Mumbai	Desserts	4.0	600	No	Yes
+Daily Dine 5	Gachibowli	Hyderabad	Pizza	3.6	1000	Yes	Yes
+The Hungry Fork 5	Lower Parel	Mumbai	South Indian	3.2	350	Yes	Yes
+Bistro Central 5	Madhapur	Hyderabad	Mexican	4.9	500	Yes	No
+Chilli House 5	Dadar	Mumbai	Gujarati	4.5	800	No	Yes
+Golden Spoon 5	Jubilee Hills	Hyderabad	Italian	4.1	300	Yes	Yes
+Fresh Bites 5	City Light	Surat	North Indian	3.7	450	Yes	Yes
+Kitchen Craft 5	Karelibaug	Vadodara	Desserts	3.3	700	Yes	Yes

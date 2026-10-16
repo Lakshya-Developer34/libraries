@@ -1,0 +1,5 @@
+Transaction_ID;Customer;Amount;Payment_Method
+101;Rahul;500.0;UPI
+102;Priya;;Card
+103;;250.0;Wallet
+104;Amit;700.0;
