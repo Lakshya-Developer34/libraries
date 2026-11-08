@@ -1,0 +1,125 @@
+{
+  "status": "ok",
+  "data": [
+    {
+      "sponsor": "TechNova",
+      "amount_inr": 153748,
+      "contact": {
+        "city": "Ahmedabad",
+        "tier": "Silver"
+      }
+    },
+    {
+      "sponsor": "GreenLeaf",
+      "amount_inr": 12050,
+      "contact": {
+        "city": "Ahmedabad",
+        "tier": "Silver"
+      }
+    },
+    {
+      "sponsor": "BlueWave",
+      "amount_inr": 34951,
+      "contact": {
+        "city": "Surat",
+        "tier": "Silver"
+      }
+    },
+    {
+      "sponsor": "SkyBridge",
+      "amount_inr": 196691,
+      "contact": {
+        "city": "Surat",
+        "tier": "Silver"
+      }
+    },
+    {
+      "sponsor": "UrbanCart",
+      "amount_inr": 181672,
+      "contact": {
+        "city": "Rajkot",
+        "tier": "Gold"
+      }
+    },
+    {
+      "sponsor": "FreshBite",
+      "amount_inr": 176472,
+      "contact": {
+        "city": "Vadodara",
+        "tier": "Gold"
+      }
+    },
+    {
+      "sponsor": "CodeCraft",
+      "amount_inr": 132744,
+      "contact": {
+        "city": "Rajkot",
+        "tier": "Bronze"
+      }
+    },
+    {
+      "sponsor": "MegaMart",
+      "amount_inr": 53001,
+      "contact": {
+        "city": "Ahmedabad",
+        "tier": "Gold"
+      }
+    },
+    {
+      "sponsor": "SunPower",
+      "amount_inr": 55028,
+      "contact": {
+        "city": "Vadodara",
+        "tier": "Silver"
+      }
+    },
+    {
+      "sponsor": "QuickPay",
+      "amount_inr": 141878,
+      "contact": {
+        "city": "Rajkot",
+        "tier": "Bronze"
+      }
+    },
+    {
+      "sponsor": "BrightEdu",
+      "amount_inr": 138301,
+      "contact": {
+        "city": "Rajkot",
+        "tier": "Bronze"
+      }
+    },
+    {
+      "sponsor": "FitLife",
+      "amount_inr": 170829,
+      "contact": {
+        "city": "Ahmedabad",
+        "tier": "Silver"
+      }
+    },
+    {
+      "sponsor": "TravelEase",
+      "amount_inr": 189352,
+      "contact": {
+        "city": "Vadodara",
+        "tier": "Bronze"
+      }
+    },
+    {
+      "sponsor": "PrintHub",
+      "amount_inr": 138583,
+      "contact": {
+        "city": "Rajkot",
+        "tier": "Gold"
+      }
+    },
+    {
+      "sponsor": "CoolBrew",
+      "amount_inr": 179269,
+      "contact": {
+        "city": "Ahmedabad",
+        "tier": "Bronze"
+      }
+    }
+  ]
+}
